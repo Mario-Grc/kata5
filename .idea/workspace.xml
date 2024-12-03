@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3771e934-3d8c-42ef-a367-77e888abfce1" name="Changes" comment="kata 5 ordenada en sus paquetes">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Joke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/model/Joke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JokeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/JokeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JokeDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/JokeDeserializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JokeReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/JokeReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/RandomJokeAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/RandomJokeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/RandomJokeDeserializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeGetResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/pojos/RandomJokeGetResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/RandomJokeLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomJokeReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/io/RandomJokeReader.java" afterDir="false" />
+    <list default="true" id="3771e934-3d8c-42ef-a367-77e888abfce1" name="Changes" comment="restart">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Joke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/JokeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/JokeDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/JokeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeGetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/RandomJokeReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mario-Grc"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Mario-Grc/kata5.git",
@@ -92,7 +100,7 @@
       <workItem from="1733059119733" duration="13866000" />
       <workItem from="1733132728033" duration="6809000" />
       <workItem from="1733217822565" duration="466000" />
-      <workItem from="1733218310648" duration="5110000" />
+      <workItem from="1733218310648" duration="6363000" />
     </task>
     <task id="LOCAL-00001" summary="kata 5 terminada">
       <option name="closed" value="true" />
@@ -102,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733226705834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="restart">
+      <option name="closed" value="true" />
+      <created>1733227034684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733227034684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kata 5 terminada" />
     <MESSAGE value="kata 5 ordenada en sus paquetes" />
-    <option name="LAST_COMMIT_MESSAGE" value="kata 5 ordenada en sus paquetes" />
+    <MESSAGE value="restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="restart" />
   </component>
 </project>
