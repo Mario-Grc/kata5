@@ -9,7 +9,7 @@ public class RandomJokeReader implements JokeReader {
     @Override
     public String read() {
         try {
-            return read(RandomJokeAPI.getRandomJoke);
+            return read(RandomJokeAPI.RANDOM_JOKE_API_URL);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
